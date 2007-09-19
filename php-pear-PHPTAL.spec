@@ -3,7 +3,7 @@
 Summary:	PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP
 Name:		php-pear-%{rname}
 Version:	1.0.10
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
 URL:		http://phptal.motion-twin.com/
