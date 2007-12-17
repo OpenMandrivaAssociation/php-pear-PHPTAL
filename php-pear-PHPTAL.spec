@@ -16,7 +16,6 @@ Requires:	php-gettext
 #Requires:	php-Algo_map
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP.
