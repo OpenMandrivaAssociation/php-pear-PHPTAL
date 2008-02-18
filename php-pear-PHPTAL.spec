@@ -1,6 +1,6 @@
 %define rname PHPTAL
 
-Summary:	PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP
+Summary:	Implementation of Zope Page Templates (ZPT) for PHP
 Name:		php-pear-%{rname}
 Version:	1.0.10
 Release:	%mkrel 3
