@@ -3,7 +3,7 @@
 Summary:	Implementation of Zope Page Templates (ZPT) for PHP
 Name:		php-pear-%{rname}
 Version:	1.0.10
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	PHP License
 Group:		Development/PHP
 URL:		http://phptal.motion-twin.com/
@@ -16,7 +16,7 @@ Requires:	php-gettext
 #Requires:	php-Algo_map
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 PHPTAL is an implementation of Zope Page Templates (ZPT) for PHP.
