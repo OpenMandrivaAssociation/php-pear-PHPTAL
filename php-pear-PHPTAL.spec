@@ -3,7 +3,7 @@
 Summary:	Implementation of Zope Page Templates (ZPT) for PHP
 Name:		php-pear-%{rname}
 Version:	1.0.10
-Release:	%mkrel 6
+Release:	%mkrel 7
 License:	PHP License
 Group:		Development/PHP
 URL:		http://phptal.motion-twin.com/
