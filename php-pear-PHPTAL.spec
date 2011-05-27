@@ -2,7 +2,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.10
-Release:	%mkrel 9
+Release:	%mkrel 10
 Summary:	Implementation of Zope Page Templates (ZPT) for PHP
 License:	PHP License
 Group:		Development/PHP
