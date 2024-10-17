@@ -6,7 +6,7 @@ Release:	13
 Summary:	Implementation of Zope Page Templates (ZPT) for PHP
 License:	PHP License
 Group:		Development/PHP
-URL:		http://phptal.motion-twin.com/
+URL:		https://phptal.motion-twin.com/
 Source0:	http://phptal.motion-twin.com/files/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
